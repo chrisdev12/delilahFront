@@ -1,0 +1,17 @@
+<template>
+  <div>
+    Home
+  </div>
+</template>
+
+<script>
+  export default {
+    
+  }
+</script>
+
+<style lang="scss" scoped>
+  div{
+    margin-top: 6rem;
+  }
+</style>
